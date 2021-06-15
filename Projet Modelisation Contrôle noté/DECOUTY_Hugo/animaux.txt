@@ -1,0 +1,5 @@
+Mammifere;Paquerette;Vache;25/12/2015;False
+Mammifere;Paquito;Cochon;14/07/2015;False
+Mammifere;Rambo;Lion;01/01/2021;True
+Reptile;Vivi;Vipere;11/11/2020;True
+Reptile;Coco;Tortue;01/05/1995;False

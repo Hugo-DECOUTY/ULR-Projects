@@ -1,0 +1,17 @@
+package Skills.AbstractSkill;
+
+public enum SkillType {
+    USER_ONLY,
+    ONE_ALLY_TARGET,
+    ONE_ALLY_RANDOM,
+    TWO_ALLIES_TARGET,
+    TWO_ALLIES_RANDOM,
+    ALL_ALLIES_TARGET,
+
+    ONE_ENEMY_TARGET,
+    ONE_ENEMY_RANDOM,
+    TWO_ENEMIES_TARGET,
+    TWO_ENEMIES_RANDOM,
+    ALL_ENEMIES_TARGET,
+
+}

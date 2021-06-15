@@ -8,7 +8,7 @@ public class Paladin extends Hero {
 
         super(
                 "Paladin",
-                "C'est un paladin demi-dieu élémentaire mes couilles au bord de l'eau",
+                "C'est un paladin demi-dieu élémentaire",
                 300,
                 100,
                 25,
